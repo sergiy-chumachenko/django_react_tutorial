@@ -88,5 +88,9 @@ local_settings.py
 .env
 db.sqlite3
 
+webpack-stats.prod.json
+assets/
+
 ### PyCharm ###
 .idea/
+
